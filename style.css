@@ -9,12 +9,17 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 90%;
 }
 
-img {
+.img {
     border-radius: 50%;
 }
+
+.body {
+    background-color:#85C1E9;
+}
+
 
 .mt {
   margin-top: 40px;
