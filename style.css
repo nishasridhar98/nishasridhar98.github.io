@@ -37,3 +37,12 @@
 .m {
 	margin-left: 170px;
 }
+
+.hero-image {
+  background-image: url("edubg.jpg");
+  background-color: #cccccc;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
