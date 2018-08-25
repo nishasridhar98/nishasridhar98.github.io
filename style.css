@@ -46,3 +46,9 @@
   background-size: cover;
   position: relative;
 }
+
+.font{
+	font-family: 'Indie Flower', cursive;
+	color: black;
+
+}
