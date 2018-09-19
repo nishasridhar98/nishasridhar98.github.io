@@ -55,3 +55,11 @@
 	color: black;
 
 }
+
+.transbox {
+    
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    
+}
