@@ -1,0 +1,27 @@
+.body {
+    background-color:#85C1E9;
+}
+
+
+.center {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.mt {
+  margin-top: 20px;
+}
+
+.img {
+	border-radius: 50%;
+}
+
+
+span { width:95%; display:inline-block; }
+span.align-right { text-align:right; }
+
+.f{
+	font-size: 18px
+}
